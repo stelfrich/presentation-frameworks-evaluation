@@ -36,8 +36,10 @@ Marp
 
 <div class="columns">
 <div class="column">
+
 - Test 1
 - Test something
+
 </div>
 <div class="column">
 ![Barbara](assets/barbara.png)
