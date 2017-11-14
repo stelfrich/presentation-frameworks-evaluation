@@ -48,6 +48,15 @@ Marp
 
 ---
 
+# Multi column slides? Third try
+
+- Test 1
+- Test something
+
+![Barbara](assets/barbara.png) <!-- .element: style="float: right; width: 40%" -->
+
+---
+
 # How to write slides?
 
 Split slides by horizontal ruler `---`. It's very simple.
