@@ -1,8 +1,6 @@
 Marp
 ===
 
-# ![](images/marp.png)
-
 ##### Markdown presentation writer, powered by [Electron](http://electron.atom.io/)
 
 ###### Created by Yuki Hattori ( [@yhatt](https://github.com/yhatt) )
