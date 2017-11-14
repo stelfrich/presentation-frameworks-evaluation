@@ -59,17 +59,17 @@ Marp
 
 # Multi column slides? Fourth try
 
-<div class="leftCol">
+<p class="leftCol" data-markdown>
 
 - Test 1
 - Test something
 
-</div>
-<div class="rightCol">
+</p>
+<p class="rightCol" data-markdown>
 
 ![Barbara](assets/barbara.png)
 
-</div>
+</p>
 
 ---
 
