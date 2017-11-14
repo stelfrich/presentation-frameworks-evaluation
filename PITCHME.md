@@ -24,7 +24,7 @@ Marp
 Split slides by horizontal ruler `---`. It's very simple.
 
 ```javascript
-# Test comment
+// Test comment
 def doSomething():
 	return 0;
 ```
