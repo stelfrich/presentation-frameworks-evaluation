@@ -24,15 +24,8 @@ Marp
 Split slides by horizontal ruler `---`. It's very simple.
 
 ```
-# Slide 1
-
-foobar
-
----
-
-# Slide 2
-
-foobar
+def doSomething():
+	return 0;
 ```
 
 > *Notice: Ruler (`<hr>`) is not displayed in Marp.*
