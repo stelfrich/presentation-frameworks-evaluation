@@ -19,6 +19,19 @@ Marp
 
 ---
 
+# Multi column slides?
+
+<div class='multiCol'>
+  <div class='col'>
+    Gallia est omnis divisa in partes tres, quarum unam incolunt Belgae, aliam Aquitani, tertiam qui ipsorum lingua Celtae, nostra Galli appellantur.
+  </div>
+  <div class='col'>
+    Qua de causa Helvetii quoque reliquos Gallos virtute praecedunt, quod fere cotidianis proeliis cum Germanis contendunt, cum aut suis finibus eos prohibent aut ipsi in eorum finibus bellum gerunt.
+  </div>
+</div>
+
+---
+
 # How to write slides?
 
 Split slides by horizontal ruler `---`. It's very simple.
