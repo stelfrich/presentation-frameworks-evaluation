@@ -75,7 +75,7 @@ Marp
 
 # Multi column slides? Last try
 
-<!-- .element: class="leftCol" -->
+<!-- .bulletlist: class="leftCol" -->
 - Test 1
 - Test something
 
