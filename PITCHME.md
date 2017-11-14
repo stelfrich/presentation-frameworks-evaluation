@@ -35,7 +35,7 @@ Marp
 # Multi column slides? Second try
 
 <div class="columns">
-<div class="column">
+<div class="column" data-markdown>
 
 - Test 1
 - Test something
