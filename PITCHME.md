@@ -57,6 +57,22 @@ Marp
 
 ---
 
+# Multi column slides? Fourth try
+
+<div class="leftCol">
+
+- Test 1
+- Test something
+
+</div>
+<div class="rightCol">
+
+![Barbara](assets/barbara.png)
+
+</div>
+
+---
+
 # How to write slides?
 
 Split slides by horizontal ruler `---`. It's very simple.
