@@ -23,7 +23,7 @@ Marp
 
 Split slides by horizontal ruler `---`. It's very simple.
 
-```md
+```
 # Slide 1
 
 foobar
@@ -44,7 +44,7 @@ foobar
 Marp's Markdown has extended directives to affect slides.
 
 Insert HTML comment as below:
-```html
+```
 <!-- {directive_name}: {value} -->
 ```
 
