@@ -73,6 +73,18 @@ Marp
 
 ---
 
+# Multi column slides? Last try
+
+<!-- .ul: class="leftCol" -->
+- Test 1
+- Test something
+
+![Barbara](assets/barbara.png) <!-- .element: class="rightCol" -->
+
+</p>
+
+---
+
 # How to write slides?
 
 Split slides by horizontal ruler `---`. It's very simple.
