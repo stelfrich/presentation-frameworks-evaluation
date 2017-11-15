@@ -81,7 +81,18 @@ Marp
 
 ![Barbara](assets/barbara.png) <!-- .element: class="rightCol" -->
 
-</p>
+---
+
+# Multi column slides? Very last try
+
+.leftCol[
+- Test 1
+- Test something
+]
+
+.rightCol[
+![Barbara](assets/barbara.png)
+]
 
 ---
 
